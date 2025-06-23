@@ -1,6 +1,6 @@
 # Counter Program
 
-A simple web application built using HTML, CSS, and JavaScript. It allows users to increase, decrease, or reset a number displayed on the screen.
+The Counter Program is a simple, interactive web application built using HTML, CSS, and JavaScript. It allows users to increment, decrement, or reset a numeric value displayed on the screen. The project demonstrates basic DOM manipulation and event handling in JavaScript.
 
 ## 🔗 Live Demo
 
